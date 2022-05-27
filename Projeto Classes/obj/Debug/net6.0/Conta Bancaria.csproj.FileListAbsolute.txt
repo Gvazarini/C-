@@ -1,0 +1,15 @@
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\bin\Debug\net6.0\Conta Bancaria.exe
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\bin\Debug\net6.0\Conta Bancaria.deps.json
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\bin\Debug\net6.0\Conta Bancaria.runtimeconfig.json
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\bin\Debug\net6.0\Conta Bancaria.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\bin\Debug\net6.0\ref\Conta Bancaria.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\bin\Debug\net6.0\Conta Bancaria.pdb
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.csproj.AssemblyReference.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.AssemblyInfo.cs
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\ref\Conta Bancaria.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.pdb
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Projeto Classes\Projeto Classes\obj\Debug\net6.0\Conta Bancaria.genruntimeconfig.cache
